@@ -1,3 +1,6 @@
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=colynn&show_icons=false">
+
 ### Hi there, I'm [Colynn!](https://colynn.github.io) 👋
 <!--
 **colynn/colynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+- 🔭 I’m currently working on Full-Stack DevOps
+- 🌱 I'm using Go,Python,Vue,NodeJs,etc
+- 📓 I’m currently strive to be a gopher
+- 😄 Pronouns: him/he
