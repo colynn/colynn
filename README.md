@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - 📓 I’m currently strive to be a gopher
 - 😄 Pronouns: him/he
 
-<img align='' src="https://github-readme-stats.vercel.app/api?username=colynn&show_icons=false">
+<!--
+  <img align='' src="https://github-readme-stats.vercel.app/api?username=colynn&show_icons=false"> 
+-->
