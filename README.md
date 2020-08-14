@@ -23,3 +23,18 @@ Here are some ideas to get you started:
 <!--
   <img align='' src="https://github-readme-stats.vercel.app/api?username=colynn&show_icons=false"> 
 -->
+
+<hr>
+<p align="center">
+  <i>Let's get in touch!</i>
+  
+  <p align="center">
+    <a href= "https://twitter.com/colynnliu"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+    <a href= "https://colynn.github.io"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+  </p>
+
+  <p align="center">
+    <!--<img src="https://visitor-badge.glitch.me/badge?page_id=colynn.colynn" alt="visitor badge"/>-->
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=colynn.colynn" alt="visitor badge"/>       
+  </p>
+</p>
