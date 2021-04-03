@@ -29,6 +29,8 @@ Here are some ideas to get you started:
   <i>Let's get in touch!</i>
   
   <p align="center">
+  ![Wechat](https://img.shields.io/badge/-colynnliu-green?style=flat&logo=Wechat&logoColor=white)
+  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/colynnliu)
     <a href= "https://twitter.com/colynnliu"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
     <a href= "https://colynn.github.io"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
   </p>
