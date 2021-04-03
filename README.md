@@ -20,23 +20,9 @@ Here are some ideas to get you started:
 - 📓 I’m currently strive to be a gopher
 - 😄 Pronouns: him/he
 
+![Wechat](https://img.shields.io/badge/-colynnliu-green?style=flat&logo=Wechat&logoColor=white)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/colynnliu)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=colynn.colynn" alt="visitor badge"/> 
 <!--
   <img align='' src="https://github-readme-stats.vercel.app/api?username=colynn&show_icons=false"> 
 -->
-
-<hr>
-<p align="center">
-  <i>Let's get in touch!</i>
-  
-  <p align="center">
-  ![Wechat](https://img.shields.io/badge/-colynnliu-green?style=flat&logo=Wechat&logoColor=white)
-  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/colynnliu)
-    <a href= "https://twitter.com/colynnliu"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-    <a href= "https://colynn.github.io"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
-  </p>
-
-  <p align="center">
-    <!--<img src="https://visitor-badge.glitch.me/badge?page_id=colynn.colynn" alt="visitor badge"/>-->
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=colynn.colynn" alt="visitor badge"/>       
-  </p>
-</p>
