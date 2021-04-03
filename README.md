@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: him/he
 
 ![Wechat](https://img.shields.io/badge/-colynnliu-green?style=flat&logo=Wechat&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/colynn/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/colynnliu)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=colynn.colynn" alt="visitor badge"/> 
 <!--
