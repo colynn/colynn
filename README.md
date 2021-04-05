@@ -22,3 +22,7 @@
 ![Google Chrome](https://img.shields.io/badge/-Chrome-%234285F4?style=flat&logo=Google%20Chrome&logoColor=ffffff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-%2331A8FF?style=flat&logo=adobe%20photoshop&logoColor=ffffff)
 ![Sketch](https://img.shields.io/badge/-Sketch-%23FDAD00?style=flat&logo=sketch&logoColor=ffffff)
+
+
+#### My Channels
+[![Bilibili](https://img.shields.io/badge/-Bilibili-%2300A1D6?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/316359860)
