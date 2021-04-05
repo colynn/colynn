@@ -1,8 +1,6 @@
 ### Hi there, I'm [Colynn!](https://colynn.github.io) 👋
 
 - 🔭 I’m currently working on Full-Stack DevOps
-- 🌱 I'm using Go,Python,Vue,NodeJs,etc
-- 📓 I’m currently strive to be a gopher
 
 ![Wechat](https://img.shields.io/badge/-colynnliu-%2307C160?style=flat&logo=Wechat&logoColor=white)
 [![Blog](https://img.shields.io/badge/🌐-colynn's_blog-%23323031?style=flat&labelColor=323031)](https://colynn.github.io)
