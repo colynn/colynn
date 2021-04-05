@@ -5,7 +5,7 @@
 - 📓 I’m currently strive to be a gopher
 - 😄 Pronouns: him/he
 
-![Wechat](https://img.shields.io/badge/-colynnliu-green?style=flat&logo=Wechat&logoColor=white)
+![Wechat](https://img.shields.io/badge/-colynnliu-%2307C160?style=flat&logo=Wechat&logoColor=white)
 [![Blog](https://img.shields.io/badge/🌐-colynn's_blog-%23323031?style=flat&labelColor=323031)](https://colynn.github.io)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/colynn/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/colynnliu)
