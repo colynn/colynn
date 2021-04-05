@@ -10,6 +10,9 @@
   <img align='' src="https://github-readme-stats.vercel.app/api?username=colynn&show_icons=false"> 
 -->
 
+#### My Channels
+[![Bilibili](https://img.shields.io/badge/-Bilibili-%2300A1D6?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/316359860)
+
 #### Languages and Tools
 ![Golang](https://img.shields.io/badge/-Golang-%2300ADD8?style=flat&logo=Go&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat&logo=vue.js&logoColor=ffffff)
@@ -24,5 +27,4 @@
 ![Sketch](https://img.shields.io/badge/-Sketch-%23FDAD00?style=flat&logo=sketch&logoColor=ffffff)
 
 
-#### My Channels
-[![Bilibili](https://img.shields.io/badge/-Bilibili-%2300A1D6?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/316359860)
+
