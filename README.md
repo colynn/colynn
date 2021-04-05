@@ -12,6 +12,7 @@
 
 #### My Channels
 [![Bilibili](https://img.shields.io/badge/-Bilibili-%2300A1D6?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/316359860)
+[![今日头条](https://img.shields.io/badge/📖-今日头条-%23323031?style=flat&labelColor=323031)](https://www.toutiao.com/c/user/token/MS4wLjABAAAAahNDJUdtFcIDM6-F7CxoAZlI37CeTvKw7ENJ3rKWEuo/)
 
 #### Languages and Tools
 ![Golang](https://img.shields.io/badge/-Golang-%2300ADD8?style=flat&logo=Go&logoColor=ffffff)
