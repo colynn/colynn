@@ -25,9 +25,9 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 ![Google Chrome](https://img.shields.io/badge/-Chrome-%234285F4?style=flat&logo=Google%20Chrome&logoColor=ffffff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-%2331A8FF?style=flat&logo=adobe%20photoshop&logoColor=ffffff)
+
+<!--
 ![Adebe XD](https://img.shields.io/badge/-AdobeXD-%23FDAD00?style=flat&logo=adobe%20xd&logoColor=ffffff)
-
-
-
+-->
 
 
