@@ -3,7 +3,6 @@
 🔭 I’m currently working on Full-Stack DevOps
 
 ![Wechat](https://img.shields.io/badge/-colynnliu-%2307C160?style=flat&logo=Wechat&logoColor=white)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/colynn/)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/colynnliu)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=colynn.colynn" alt="visitor badge"/> 
 <!--
