@@ -1,6 +1,6 @@
 ### Hi there, I'm [Colynn!](https://colynn.github.io) 👋
 
-🔭 I’m currently working on Full-Stack DevOps
+🔭 I’m working on Full-Stack DevOps
 
 ![Wechat](https://img.shields.io/badge/-colynnliu-%2307C160?style=flat&logo=Wechat&logoColor=white)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/colynnliu)
