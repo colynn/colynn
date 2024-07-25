@@ -1,4 +1,4 @@
-### Hi there, I'm [Colynn!](https://colynn.github.io) 👋
+### Hi there, I'm [Yuan!](https://colynn.github.io) 👋
 
 🔭 I’m working on Full-Stack DevOps
 
