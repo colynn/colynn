@@ -2,13 +2,10 @@
 
 🔭 I’m working on Full-Stack DevOps
 
-![Wechat](https://img.shields.io/badge/-colynnliu-%2307C160?style=flat&logo=Wechat&logoColor=white) [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/colynnliu) <img src="https://visitor-badge.laobi.icu/badge?page_id=colynn.colynn" alt="visitor badge"/> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=colynn.colynn" alt="visitor badge"/> 
 <!--
   <img align='' src="https://github-readme-stats.vercel.app/api?username=colynn&show_icons=false"> 
 -->
-
-#### My Channels
-[![Bilibili](https://img.shields.io/badge/-Bilibili-%2300A1D6?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/316359860)
 
 
 #### Languages and Tools
